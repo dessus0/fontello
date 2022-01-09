@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="user-outline" unicode="&#xe800;" d="M313 689q-65 0-111-46t-46-110 46-111 111-46 110 46 46 111-46 110-110 46z m0 104q107 0 183-77t77-183-77-184-183-76-184 76-76 184 76 183 184 77z m0-677q-74 0-127-22t-72-54q75-29 199-29t197 29q-21 30-73 53t-124 23z m0 104q136 0 224-63t88-146q0-41-89-72t-223-32q-140 0-227 32t-86 72q0 83 86 146t227 63z" horiz-adv-x="625" />
+
+<glyph glyph-name="mail" unicode="&#xe801;" d="M929 11v428q-18-20-39-36-149-115-238-189-28-24-46-37t-48-28-57-13h-2q-26 0-57 13t-48 28-46 37q-88 74-238 189-21 16-39 36v-428q0-7 6-13t12-5h822q7 0 12 5t6 13z m0 586v14t-1 7-1 7-3 5-5 4-8 2h-822q-7 0-12-6t-6-12q0-94 83-159 107-84 223-176 4-3 20-17t25-21 25-17 28-16 24-5h2q11 0 24 5t28 16 25 17 25 21 20 17q116 92 224 176 30 24 56 65t26 73z m71 21v-607q0-37-26-63t-63-27h-822q-36 0-63 27t-26 63v607q0 37 26 63t63 26h822q37 0 63-26t26-63z" horiz-adv-x="1000" />
+
+<glyph glyph-name="mobile" unicode="&#xe802;" d="M480 840q42 0 71-29t29-71l0-780q0-40-29-70t-71-30l-380 0q-40 0-70 30t-30 70l0 780q0 42 30 71t70 29l380 0z m-190-940q30 0 50 15t20 35q0 22-20 36t-50 14q-28 0-49-15t-21-35 21-35 49-15z m210 150l0 660-420 0 0-660 420 0z" horiz-adv-x="580" />
+
+<glyph glyph-name="pencil-alt" unicode="&#xe803;" d="M879 764q32-32 32-79t-33-79l-422-421q-16 60-56 101t-101 56l421 423q32 32 79 32t80-33z m-559-716l-302-145 144 304q32 32 79 32t80-33 32-79-33-79z" horiz-adv-x="928" />
+</font>
+</defs>
+</svg>
